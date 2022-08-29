@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'SwiftCollectionsPod'
 ```
 
-## Author
-
-Nikita, nikita.tarkhov@cleverpumpkin.ru
-
 ## License
 
 SwiftCollectionsPod is available under the MIT license. See the LICENSE file for more info.
