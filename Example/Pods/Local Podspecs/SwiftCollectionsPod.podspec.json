@@ -1,0 +1,22 @@
+{
+  "name": "SwiftCollectionsPod",
+  "version": "1.0.2",
+  "summary": "Apple SwiftCollections framework",
+  "description": "Apple SwiftCollections framework",
+  "homepage": "https://github.com/nikit6000/SwiftCollectionsPod",
+  "license": {
+    "type": "Apache License 2.0",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nikita": "nikita.tarkhov@cleverpumpkin.ru"
+  },
+  "source": {
+    "git": "https://github.com/nikit6000/SwiftCollectionsPod.git",
+    "tag": "1.0.2"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "SwiftCollectionsPod/Classes/**/*.swift"
+}

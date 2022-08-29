@@ -1,0 +1,6 @@
+framework module SwiftCollectionsPod {
+  umbrella header "SwiftCollectionsPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

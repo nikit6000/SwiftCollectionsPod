@@ -1,0 +1,16 @@
+PODS:
+  - SwiftCollectionsPod (1.0.2)
+
+DEPENDENCIES:
+  - SwiftCollectionsPod (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftCollectionsPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftCollectionsPod: 4b5ff108e884d8da0871b5728dbd3c2bb83f440e
+
+PODFILE CHECKSUM: cbf73b31984a2ab895a667c02a1796853e4477de
+
+COCOAPODS: 1.11.2
